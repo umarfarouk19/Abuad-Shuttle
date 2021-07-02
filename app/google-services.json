@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266200738868",
+    "project_id": "banded-coder-311315",
+    "storage_bucket": "banded-coder-311315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266200738868:android:1b9ce588e9f49728862e61",
+        "android_client_info": {
+          "package_name": "com.shamsudeen.shuttlex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266200738868-a339283n2u2pipkso2dgnu33d8s8tt19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHIG2HXePxYg_XwS38iqWn0HSjc2WCb-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266200738868-a339283n2u2pipkso2dgnu33d8s8tt19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
